@@ -1,3 +1,3 @@
 # InterfacePolimorfismo
 
-Neste projetos de forma simples o conceito de interface e polimorfismo.
+Neste projeto será abordado de forma simples o conceito de interface e polimorfismo.
